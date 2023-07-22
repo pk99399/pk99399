@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pk99399
 - 👀 I’m interested in developing real life projects.
-- 🌱 I’m currently learning android developement.
+- 🌱 I’m currently learning Java developement.
 - 💞️ I’m looking to collaborate on real life projects.
 - 📫 How to reach me gmail-pk99399jee2017@gmail.com.
 
